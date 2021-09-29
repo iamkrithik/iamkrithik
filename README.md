@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamkrithik
+- 👋 Hi, I’m Krithik. (id:@iamkrithik)
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning App Development.
 - 💞️ I’m looking to collaborate on Landing pages.
