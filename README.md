@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamkrithik
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning App Development
-- 💞️ I’m looking to collaborate on Front-End Web Development
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning App Development.
+- 💞️ I’m looking to collaborate on Landing pages.
 - 📫 Reach me by mail.
 
 <!---
